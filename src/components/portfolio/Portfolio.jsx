@@ -19,7 +19,7 @@ export default function Portfolio() {
     },
     {
       id: 3,
-      title: " Trips Booking",
+      title: " Trips Booking App",
       img: "https://www5.0zz0.com/2023/03/07/16/273477236.jpg",
       link:"https://github.com/emanshraf/Egypt_Trips",
       
