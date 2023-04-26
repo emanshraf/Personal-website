@@ -26,9 +26,10 @@ export default function Portfolio() {
     },
     {
       id: 4,
-      title: " Projects Management App",
-      img: "https://www3.0zz0.com/2022/11/06/13/735976477.jpg",
-      link:"https://github.com/emanshraf/Project-Management-App",
+      title: "Chat App",
+      img: "https://www13.0zz0.com/2023/04/26/03/863386896.png",
+      link:"https://github.com/emanshraf/Chat_App",
+      link2:"https://chat-app-tan-phi.vercel.app/",
       
     },
     
@@ -45,13 +46,6 @@ export default function Portfolio() {
       img: "https://www10.0zz0.com/2022/11/13/05/467148656.jpg",
       link:"https://github.com/emanshraf/Admin-Front-End-App",
       link2:"https://admin-front-end-app.vercel.app/",
-    },
-    {
-      id: 7,
-      title: "Chat App",
-      img: "https://www13.0zz0.com/2023/04/26/03/863386896.png",
-      link:"https://github.com/emanshraf/Chat_App",
-      link2:"https://chat-app-tan-phi.vercel.app/",
     },
     
   ];
