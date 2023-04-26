@@ -46,6 +46,13 @@ export default function Portfolio() {
       link:"https://github.com/emanshraf/Admin-Front-End-App",
       link2:"https://admin-front-end-app.vercel.app/",
     },
+    {
+      id: 7,
+      title: "Chat App",
+      img: "https://www13.0zz0.com/2023/04/26/03/863386896.png",
+      link:"https://github.com/emanshraf/Chat_App",
+      link2:"https://chat-app-tan-phi.vercel.app/",
+    },
     
   ];
 
