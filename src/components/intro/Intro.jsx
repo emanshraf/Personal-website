@@ -33,7 +33,7 @@ export default function Intro() {
          </div>
 
         <div className="social">
-            <a href="https://wa.me/01093791858" target="_blank" rel="noreferrer"><i className="fa-brands fa-whatsapp"></i></a>
+            <a href="https://wa.me/01090793007" target="_blank" rel="noreferrer"><i className="fa-brands fa-whatsapp"></i></a>
             <a href="mailto:emanashraf19951992@gmail.com"><i className="fa fa-envelope" ></i></a>
             <a href="https://www.facebook.com/profile.php?id=100070473144604"><i className="fa-brands fa-facebook"></i></a>
             <a href="https://www.linkedin.com/in/eman-ashraf-419339230/"><i className="fa-brands fa-linkedin"></i></a> 
