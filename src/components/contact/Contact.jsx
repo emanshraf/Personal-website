@@ -32,7 +32,7 @@ const Contact = () => {
           <div className="info">
             <div className="info-item">
               <img src={Phone} alt="" className="icon" />
-              01093791858 
+               01090793007
             </div>
             <div className="info-item">
               <img className="icon" src={Email} alt="" />
